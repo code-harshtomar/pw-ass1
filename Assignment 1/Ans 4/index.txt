@@ -1,0 +1,8 @@
+An HTML tag is a snippet of code enclosed with angle brackets ("<"and">") that defines the purpose and structure of a specific element on a webpage.
+ Tags are used to instruct the web browser how to display the content they enclose.
+ Tags usually come in pairs: an opening tag and a closing tag, with the name of the element enclose within the tags.
+
+ An HTML element is a complete unit that includes an opening tag,content and a closing tag.it represents a distinct part a webpage's content or structure.
+ Elements are composed of tags and the content enclosed between those tags.
+ In this example, <p> is the opening tag."this is a paragraph of text.
+ 

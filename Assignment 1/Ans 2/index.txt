@@ -1,0 +1,6 @@
+Comments in HTML serve as non-rendered text that provide information about for human readers .
+They are useful for documenting your code, explaning its purpose, making notes,or temporarily disabling par of the code,explaining its purpose, making notes , or temporarily disabling parts of the code without deleting them.
+Comments are ignored by browsers and do not affect the rendering of the webpage.
+1. the first comment provide an explanation about the purpose of the heading.
+2. the second comments is used to display the paragraph temporarily. If you remove the <!-- and -->! around the <p> tag , the paragraph will be displayed.
+3. the third comment include the "TODO" label, indicating the there's a task to be done later, such as adding more content to the webpage.
